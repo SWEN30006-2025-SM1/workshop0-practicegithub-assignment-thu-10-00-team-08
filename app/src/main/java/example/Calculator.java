@@ -13,8 +13,7 @@ public class Calculator {
 
     public int multiply(int a, int b) {
         // TODO: Implement this method
-        int i = a * b;
-        return i;
+        return a * b;
     }
 
     public double divide(int a, int b) {
