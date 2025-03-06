@@ -14,6 +14,7 @@ public class Calculator {
     public int multiply(int a, int b) {
         // TODO: Implement this method
         return a * b;
+        // maybe work
     }
 
     public double divide(int a, int b) {
