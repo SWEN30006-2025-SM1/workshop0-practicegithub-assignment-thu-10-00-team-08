@@ -13,7 +13,7 @@ public class Calculator {
 
     public int multiply(int a, int b) {
         // TODO: Implement this method
-        return 20;
+        return a * b;
         // maybe work
     }
 
